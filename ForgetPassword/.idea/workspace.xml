@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50bc46da-30bc-4ed6-a6e9-bd258c23ea0e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Security_Jwt/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Security_Jwt/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Security_Jwt/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Security_Jwt/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpSecurity-JWT/src/main/java/com/practice/spsecurityjwt/configuration/security/CustomUserDetailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpSecurity-JWT/src/main/java/com/practice/spsecurityjwt/configuration/security/CustomUserDetailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpSecurity-JWT/src/main/java/com/practice/spsecurityjwt/configuration/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpSecurity-JWT/src/main/java/com/practice/spsecurityjwt/configuration/security/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpSecurity-JWT/src/main/java/com/practice/spsecurityjwt/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpSecurity-JWT/src/main/java/com/practice/spsecurityjwt/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpSecurity-JWT/src/main/java/com/practice/spsecurityjwt/dto/user/AuthResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpSecurity-JWT/src/main/java/com/practice/spsecurityjwt/dto/user/AuthResponseDTO.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2kZyGxOBahNL7rfM6tRx6mF4P0R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "java.sql.Driver",
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ForgetPasswordApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ForgetPassword" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.forgetpassword.ForgetPasswordApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50bc46da-30bc-4ed6-a6e9-bd258c23ea0e" name="Changes" comment="" />
+      <created>1723505301782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723505301782</updated>
+      <workItem from="1723505303039" duration="99000" />
+      <workItem from="1723505477889" duration="365000" />
+      <workItem from="1723505878145" duration="135000" />
+      <workItem from="1723506026191" duration="52000" />
+      <workItem from="1723506198211" duration="92000" />
+      <workItem from="1723616696864" duration="7000" />
+      <workItem from="1724668229868" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/forgetpassword/repository/UserRepository.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

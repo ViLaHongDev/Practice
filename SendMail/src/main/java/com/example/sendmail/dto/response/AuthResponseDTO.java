@@ -1,14 +1,12 @@
-package com.practice.spsecurityjwt.dto.user;
+package com.example.sendmail.dto.response;
 
 import lombok.Data;
 
 @Data
 public class AuthResponseDTO {
     private String accessToken;
-    private String tokenType = "Bearer ";
-
-    public AuthResponseDTO(String accessToken) {
+    private String typeToken = "Bearer ";
+    public AuthResponseDTO(String accessToken){
         this.accessToken = accessToken;
     }
-
 }
